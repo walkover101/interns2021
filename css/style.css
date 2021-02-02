@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: white;
+
+}
+body {
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55f5b115-5549-43a9-b64e-1694097341c1/d8wlxdt-95e55ecc-3360-4618-b8d3-049f870f46a3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNTVmNWIxMTUtNTU0OS00M2E5LWI2NGUtMTY5NDA5NzM0MWMxXC9kOHdseGR0LTk1ZTU1ZWNjLTMzNjAtNDYxOC1iOGQzLTA0OWY4NzBmNDZhMy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.XdWA_7KhZmM-YjtWIyQ3dbDpogl77A5gwkrv8xSBrew");
+    background-color: #cccccc;
+   }
+.Ruby{
+    float: left;
+}
