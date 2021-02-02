@@ -1,0 +1,38 @@
+
+body {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Courier New', monospace;
+    line-height: 1.80857;
+    padding-left: 2%;
+}
+
+body {
+    background: url(images/background.jpg)  center #f2f3f5;
+}   
+
+  .content {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .title {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .sub-title {
+      
+    font-weight: bold;
+    color: #c9c0c0;
+    padding-left: 500px;
+  }
+  .img {
+    width: 100px;
+    height: 25px;
+    border: 5px solid #EBEAAE;
+  }
+
+  .para{
+    text-align: center;
+    padding-left: 500px;
+  }
