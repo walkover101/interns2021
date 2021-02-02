@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    pading: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    background: url(bck2.jpg);
+    height:100%;
+    width: 100%;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+.navbar
+{
+    text-align: center;
+    padding:20px;
+
+}
+.navbar a{
+    text-decoration:none;
+    color:#fff;
+    font-size:25px;
+    font-family:Tahoma;
+    margin-right: 80px;
+    border: 2px solid transparent;
+    padding:10px;
+    transition: 0.3s;
+}
+.navbar a:hover
+{
+    background:#000;
+    border:2px solid #fff;
+
+}
+.head-content
+{
+    text-align: center;
+}
+.head-content img{
+    border-radius: 50%;
+    border: 2px solid #fff;
+    margin-top: 20px;
+}
+.head-content img:hover
+{
+    border:2px solid #000;
+
+}
+.name
+{
+    cursor:pointer;
+    font-size: 50px;
+    color: #fff;
+    font-family: Algerian;
+
+}
+.desc
+{
+    cursor:default;
+    font-size: 30px;
+    color:#fff;
+    font-family: Harlow Solid;
+}
